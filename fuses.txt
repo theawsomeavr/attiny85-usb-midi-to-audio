@@ -1,0 +1,4 @@
+efuse  FE
+hfuse  DD
+lfuse  E1
+
